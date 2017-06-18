@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+出售以下2个域名
 
-You can use the [editor on GitHub](https://github.com/koujun2012/suanfajiaoyi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+suanfajiaoyi.com
+suanfajiaoyi.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koujun2012/suanfajiaoyi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+算法交易
+算法交易，也称为自动交易，黑盒交易，是利用电子平台，输入涉及算法的交易指令，以执行预先设定好的交易策略。算法中包含许多变量，包括时间，价格，交易量，或者在许多情况下，由“机器人”发起指令，而无需人工干预。算法交易广泛应用于投资银行，养老基金，共同基金，以及其他买方机构投资者，以把大额交易分割为许多小额交易来应付市场风险和冲击。卖方交易员，例如做市商和一些对冲基金，为市场提供流动性，自动生成和执行指令。
